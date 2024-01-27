@@ -1,7 +1,6 @@
 👋 Hello, I'm [Donald MxolisiMohlala]!
 
 🔒 Penetration Tester | Cybersecurity Enthusiast
-🎓 Studying BSc in Computer Science and Mathematics at the University of Limpopo
 
 🔭 Exploring the depths of cybersecurity and the art of ethical hacking
 💻 Passionate about securing systems, identifying vulnerabilities, and enhancing digital defenses
