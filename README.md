@@ -8,9 +8,9 @@
 📈 Skilled in building secure web applications and APIs using Python Flask framework
 
 💻Web Projects :
-   -www.shopient.co.za
-   -spinz-three.vercel.app
-   -themxolisi.netlify.app
+   - www.shopient.co.za
+   - https://spinz-three.vercel.app
+   - https://themxolisi.netlify.app
 
 💼 Experienced in:
    - Python & Flask for backend development
