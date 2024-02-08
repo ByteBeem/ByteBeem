@@ -7,6 +7,11 @@
 🧠 Constantly expanding my knowledge in network security, cryptography, and secure coding practices
 📈 Skilled in building secure web applications and APIs using Python Flask framework
 
+💻Web Projects :
+   -www.shopient.co.za
+   -spinz-three.vercel.app
+   -themxolisi.netlify.app
+
 💼 Experienced in:
    - Python & Flask for backend development
    - React.js for frontend development
