@@ -9,7 +9,7 @@
 
 💻Web Projects :
    - www.shopient.co.za
-   - https://spinz-three.vercel.app
+   - www.spinz4bets.co.za
    - https://themxolisi.netlify.app
 
 💼 Experienced in:
