@@ -1,11 +1,11 @@
 👋 Hello, I'm [Donald MxolisiMohlala]!
 
-🔒 Cybersecurity Professional | Ethical Hacker
+🔒 Cybersecurity Professional | Ethical Hacker | Web dev | App dev
 
 🔭 Exploring the depths of cybersecurity with a passion for ethical hacking
-💻 Proficient in Python, Flask, HTML, CSS, and JavaScript
+💻 Proficient in Python, HTML, CSS, JavaScript , C#
 🧠 Constantly expanding my knowledge in network security, cryptography, and secure coding practices
-📈 Skilled in building secure web applications and APIs using Python Flask framework
+📈 Skilled in building secure web applications and APIs 
 
 💻Web Projects :
    - www.shopient.co.za
@@ -13,7 +13,7 @@
    - https://themxolisi.netlify.app
 
 💼 Experienced in:
-   - Python & Flask for backend development
+   - C# & .NETfor backend development
    - React.js for frontend development
    - Node.js for server-side applications
    - React Native for cross-platform mobile app development
