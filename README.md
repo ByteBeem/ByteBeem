@@ -9,6 +9,7 @@
 
 💻Web Projects :
    - www.shopient.co.za
+   - www.jobs4life.co.za
    - www.spinz4bets.co.za
    - https://themxolisi.netlify.app
 
