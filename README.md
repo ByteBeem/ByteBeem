@@ -9,9 +9,9 @@
 
 💻Web Projects :
    - www.shopient.co.za
-   - play929.vercel.app
+   - www.play929.vercel.app
    - www.spinz4bets.co.za
-   - mrmxolisi.com
+   - www.mrmxolisi.com
 
 💼 Experienced in:
    - C# & .NETfor backend development
