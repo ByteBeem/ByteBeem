@@ -9,7 +9,7 @@
 
 💻Web Projects :
    - www.shopient.co.za
-   - www.play929.vercel.app
+   - www.play929.com
    - www.spinz4bets.co.za
    - www.mrmxolisi.com
 
