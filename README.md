@@ -42,6 +42,6 @@ Gaming portal featuring:
 ## 📫 Let's Collaborate
 - Email: [donald.mxolisi@outlook.com](mailto:donald.mxolisi@outlook.com)
 - Phone: +27 79 860 3827
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)
+
 
 [![Visits](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yourusername)
