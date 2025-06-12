@@ -40,8 +40,8 @@ Gaming portal featuring:
 5. **Scalability:** Horizontal scaling designs
 
 ## 📫 Let's Collaborate
-- Email: [donald.mxolisi@outlook.com](mailto:donald.mxolisi@outlook.com)
-- Phone: +27 79 860 3827
+- Email: [donald.mxolisi@outlook.com](mailto:donald.mxolisi@proton.me)
+- Phone: +27 78 104 5677
 
 
 [![Visits](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yourusername)
